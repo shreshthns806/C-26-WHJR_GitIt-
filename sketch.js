@@ -1,3 +1,6 @@
+//Class 26 Project-GitIt!
+//WhiteHatJunior
+//shreshthns806
 function checkForWinner() {
   console.log("checking for winner...")
   var winner
